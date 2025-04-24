@@ -6,4 +6,5 @@ Below are some featured analytics projects where I transformed business challeng
 ## 📌 Featured Projects
 - 🎯 [Female Customer Segmentation for Credit Card Campaigns](./female-segmentation.md)  
 - 🔍 [Complaint Root Cause Analysis on 220K Records](#coming-soon)
+  
 🧠 Each project includes background, tools, methodology, visualizations, and key business impact.
