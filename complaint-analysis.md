@@ -27,3 +27,7 @@ SQL, SAS, in-house LLM (Large Language Model), Excel, PowerPoint
 
 ## 💬 My Role
 Led the project from scoping to delivery, aligning stakeholders across analytics, compliance, customer care, and product. I acted as the analysis owner, business translator, and presenter—bridging raw data, language model output, and business action.
+
+---
+
+🔗 [Back to Homepage](./README.md)
