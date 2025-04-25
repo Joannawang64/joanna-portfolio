@@ -4,7 +4,7 @@ Welcome! I'm a data analyst with 3 years of experience in customer segmentation,
 Below are some featured analytics projects where I transformed business challenges into data-driven actions.
 
 ## 📬 Contact
-- LinkedIn: [(https://www.linkedin.com/in/yanzhuo-wang1121)]
+- LinkedIn: [https://www.linkedin.com/in/yanzhuo-wang1121]
 - Email: joanna.wang.64@gmail.com
 
 
