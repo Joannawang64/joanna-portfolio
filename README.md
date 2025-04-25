@@ -5,7 +5,7 @@ Below are some featured analytics projects where I transformed business challeng
 
 ## 📬 Contact
 - LinkedIn: [(https://www.linkedin.com/in/yanzhuo-wang1121)]
-- Email: joanna.wang.64@gmail.com![image](https://github.com/user-attachments/assets/663877b5-b938-43fb-9c38-40b11c1fe616)
+- Email: joanna.wang.64@gmail.com
 
 
 ## 📌 Featured Projects
