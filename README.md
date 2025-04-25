@@ -17,5 +17,5 @@ Below are some featured analytics projects where I transformed business challeng
 ## 📌 CERTIFICATIONS & SKILLS
 - **Certifications**:  
   [Power BI (Microsoft Certified)](https://learn.microsoft.com/en-us/certifications/power-bi-data-analyst-associate/) |  
-  [Tableau (Certified)](https://www.tableau.com/learn/certification) |  
+  [Tableau (Certified)](https://www.credly.com/badges/ca8eb172-a3c6-4980-98f2-07b9bec430d4/linked_in_profile) |  
   [Python (Python Institute Certified)](https://pythoninstitute.org/certification)
