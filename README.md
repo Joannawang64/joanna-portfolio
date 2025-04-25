@@ -3,6 +3,11 @@
 Welcome! I'm a data analyst with 3 years of experience in customer segmentation, campaign optimization, and business insight generation.
 Below are some featured analytics projects where I transformed business challenges into data-driven actions.
 
+## 📬 Contact
+- LinkedIn: [(https://www.linkedin.com/in/yanzhuo-wang1121)]
+- Email: joanna.wang.64@gmail.com![image](https://github.com/user-attachments/assets/663877b5-b938-43fb-9c38-40b11c1fe616)
+
+
 ## 📌 Featured Projects
 - 🎯 [Female Customer Segmentation for Credit Card Campaigns](./female-segmentation.md)
   
